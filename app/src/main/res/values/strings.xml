@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title">Courses App</string>
+    <string name="search_screen">Search Screen</string>
+    <string name="empty">empty</string>
+    <string name="course">course</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="online">Online</string>
+    <string name="physical">Physical</string>
+    <string name="course_details">Course Details</string>
+    <string name="your_cart_is_empty">Your cart is empty.</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="added_to_cart_successfully">Added to cart successfully!</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="coming_soon">coming soon!</string>
+</resources>
